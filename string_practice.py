@@ -1,5 +1,5 @@
 """
-Lists Practice - Solutions
+Strings Practice - Solutions
 Author: Danil
 Date: 15.12.2025 (RU)
 """
