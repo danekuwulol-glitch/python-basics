@@ -11,4 +11,10 @@ clean = text.strip() # remove backspace ('Hello, World!)
 lower_text = text.lower() # remove caps ('hello world!')
 upper_text = text.upper() # make caps ('HELLO WORLD!')
 title_text = text.title() # capitalizes the first letter of each word
+replaced = text.replace('hello', 'hi') # replace
+text.split(', ')  # ['Hello', 'World']
+example = ['a', 'b', 'c']
+example_1 = ', '.join(example) # a, b, c
+
+
 
